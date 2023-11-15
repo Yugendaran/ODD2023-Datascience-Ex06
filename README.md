@@ -1,6 +1,6 @@
 # EX NO : 06 Feature Transformation
 
-## DATE : 
+## DATE :  19/10/2023
 
 ## AIM:
 To read the given data and perform Feature Transformation process and save the data to a file.
